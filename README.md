@@ -1,2 +1,2 @@
 # sokoban
-One more sokoban - type of puzzle
+One more sokoban - type of a puzzle
